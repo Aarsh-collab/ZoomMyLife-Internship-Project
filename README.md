@@ -22,7 +22,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Aarsh-Collab/ZoomMyLife-Internship-Project.git
+git clone https://github.com/Aarsh-collab/ZoomMyLife-Internship-Project.git
 
 cd health-insight-engine
 ```
